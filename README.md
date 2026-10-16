@@ -1,4 +1,3 @@
 # Olá, Mundo!
 Minha primeira aula de Git GitHub
-
-Meus projetos
+Estrelinha..... 
